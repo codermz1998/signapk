@@ -20,7 +20,7 @@ Options:
   --help|-h                 Show this help message and exit
 
 Examples:
-  ./signapk.sh --project A34_54 --input Demo.apk
+  ./signapk.sh --project xxxx --input Demo.apk
   ./signapk.sh --input Demo.apk --output mysigned_Demo.apk
   ./signapk.sh
 ```
